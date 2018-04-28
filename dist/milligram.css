@@ -42,8 +42,8 @@ button,
 input[type='button'],
 input[type='reset'],
 input[type='submit'] {
-  background-color: #0078d4;
-  border: 0.1rem solid #0078d4;
+  background-color: #007800;
+  border: 0.1rem solid #007800;
   border-radius: 0.3rem;
   color: #fff;
   cursor: pointer;
@@ -69,8 +69,8 @@ button:hover,
 input[type='button']:hover,
 input[type='reset']:hover,
 input[type='submit']:hover {
-  background-color: #005a9e;
-  border-color: #005a9e;
+  background-color: #78b138;
+  border-color: #78b138;
   color: #fff;
   outline: 0;
 }
@@ -89,8 +89,8 @@ button[disabled]:hover,
 input[type='button'][disabled]:hover,
 input[type='reset'][disabled]:hover,
 input[type='submit'][disabled]:hover {
-  background-color: #0078d4;
-  border-color: #0078d4;
+  background-color: #007800;
+  border-color: #007800;
 }
 
 .button.button-outline,
@@ -99,7 +99,7 @@ input[type='button'].button-outline,
 input[type='reset'].button-outline,
 input[type='submit'].button-outline {
   background-color: transparent;
-  color: #0078d4;
+  color: #007800;
 }
 
 .button.button-outline:hover,
@@ -108,8 +108,8 @@ input[type='button'].button-outline:hover,
 input[type='reset'].button-outline:hover,
 input[type='submit'].button-outline:hover {
   background-color: transparent;
-  border-color: #005a9e;
-  color: #005a9e;
+  border-color: #78b138;
+  color: #78b138;
 }
 
 .button.button-outline[disabled]:hover,
@@ -118,7 +118,7 @@ input[type='button'].button-outline[disabled]:hover,
 input[type='reset'].button-outline[disabled]:hover,
 input[type='submit'].button-outline[disabled]:hover {
   border-color: inherit;
-  color: #0078d4;
+  color: #007800;
 }
 
 .button.button-clear,
@@ -128,7 +128,7 @@ input[type='reset'].button-clear,
 input[type='submit'].button-clear {
   background-color: transparent;
   border-color: transparent;
-  color: #0078d4;
+  color: #007800;
 }
 
 .button.button-clear:hover,
@@ -138,7 +138,7 @@ input[type='reset'].button-clear:hover,
 input[type='submit'].button-clear:hover {
   background-color: transparent;
   border-color: transparent;
-  color: #005a9e;
+  color: #78b138;
 }
 
 .button.button-clear[disabled]:hover,
@@ -146,7 +146,7 @@ button.button-clear[disabled]:hover,
 input[type='button'].button-clear[disabled]:hover,
 input[type='reset'].button-clear[disabled]:hover,
 input[type='submit'].button-clear[disabled]:hover {
-  color: #0078d4;
+  color: #007800;
 }
 
 code {
@@ -160,7 +160,7 @@ code {
 
 pre {
   background: #f8f8f8;
-  border-left: 0.3rem solid #0078d4;
+  border-left: 0.3rem solid #007800;
   overflow-y: hidden;
 }
 
@@ -222,7 +222,7 @@ input[type='datetime-local']:focus,
 input:not([type]):focus,
 textarea:focus,
 select:focus {
-  border-color: #0078d4;
+  border-color: #007800;
   outline: 0;
 }
 
@@ -435,12 +435,12 @@ input[type='radio'] {
 }
 
 a {
-  color: #0078d4;
+  color: #007800;
   text-decoration: none;
 }
 
 a:hover {
-  color: #005a9e;
+  color: #78b138;
 }
 
 dl,
